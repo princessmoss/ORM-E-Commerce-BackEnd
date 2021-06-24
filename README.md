@@ -26,7 +26,7 @@ This application is the backend portion of an E-Commerce website that can be use
 
 ## Walk-Thru Video 
 ![Creating Database](./assets/DatabaseDemo.gif)
-![Insomnia](./assets/Insomnia.gif)
+![Insomnia](./assets/InsomniaDemo.gif)
 
 
 
