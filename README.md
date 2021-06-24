@@ -18,14 +18,15 @@ This application is the backend portion of an E-Commerce website that can be use
 • For Installation you need to :
         • Make sure you have Node.js and MySql installed on your computer
         • Install these dependencies.
-        • Intialize node package manager and then run the following commands;  
+        • Intialize node package manager and then run the following commands: 
             `npm install mysql2`   
             `npm install sequelize`   
             `npm install dotenv` 
 
 
 ## Walk-Thru Video 
-
+![Creating Database](./assets/ezgif.com-gif-maker.gif)
+![Insomnia](./assets/Insomnia.gif)
 
 ## Links
 
